@@ -1,0 +1,20 @@
+{
+  "name": "sample_codespace",
+  "version": "1.0.0",
+  "description": "try out the codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giri8888/sample_codespace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giri8888/sample_codespace/issues"
+  },
+  "homepage": "https://github.com/giri8888/sample_codespace#readme"
+}
